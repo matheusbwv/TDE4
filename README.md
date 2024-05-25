@@ -1,28 +1,11 @@
-<<<<<<< HEAD
 # Lumen PHP Framework
 
-[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
-[![Total Downloads](https://img.shields.io/packagist/dt/laravel/lumen-framework)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Stable Version](https://img.shields.io/packagist/v/laravel/lumen-framework)](https://packagist.org/packages/laravel/lumen-framework)
-[![License](https://img.shields.io/packagist/l/laravel/lumen)](https://packagist.org/packages/laravel/lumen-framework)
+Laravel Lumen é um micro-framework PHP incrivelmente rápido para construir aplicativos web com uma sintaxe expressiva e elegante. Acreditamos que o desenvolvimento deve ser uma experiência agradável e criativa para ser verdadeiramente gratificante. Lumen tenta eliminar as dificuldades do desenvolvimento facilitando tarefas comuns usadas na maioria dos projetos web, como roteamento, abstração de banco de dados, filas e cache.
 
-Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
+## Documentação Oficial
 
-## Official Documentation
+A documentação do framework pode ser encontrada no [Site do Lumen](https://lumen.laravel.com/docs).
 
-Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
+[Documentação do laravel](https://laravel.com/docs/contributions).
 
-## Contributing
 
-Thank you for considering contributing to Lumen! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-=======
-# TDE4
->>>>>>> origin/master
