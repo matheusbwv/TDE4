@@ -6,6 +6,5 @@ Laravel Lumen é um micro-framework PHP incrivelmente rápido para construir apl
 
 A documentação do framework pode ser encontrada no [Site do Lumen](https://lumen.laravel.com/docs).
 
-[Documentação do laravel](https://laravel.com/docs/contributions).
 
 
